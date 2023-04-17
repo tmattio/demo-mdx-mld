@@ -1,0 +1,6 @@
+Here's an example code block in a [.mld] file:
+
+{[
+  # List.map (fun x -> x * x) [(1 + 9); 2; 3; 4];;
+]}
+
