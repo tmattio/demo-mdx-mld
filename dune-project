@@ -1,10 +1,10 @@
-(lang dune 3.7)
+(lang dune 3.8)
 
 (name demo)
 
 (generate_opam_files true)
 
-(using mdx 0.3)
+(using mdx 0.4)
 
 (package
  (name demo)

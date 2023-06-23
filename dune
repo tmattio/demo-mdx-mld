@@ -1,5 +1,4 @@
 (documentation
  (mld_files index))
 
-(mdx
- (files index.mld))
+(mdx)

@@ -3,7 +3,7 @@ opam-version: "2.0"
 synopsis: "A demo of running mdx in mld files"
 description: "A demo of running mdx in mld files"
 depends: [
-  "dune" {>= "3.7"}
+  "dune" {>= "3.8"}
   "mdx" {>= "2.3.0" & with-test}
   "odoc" {with-doc}
 ]
